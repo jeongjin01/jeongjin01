@@ -23,8 +23,7 @@
   <img height="30" src="https://img.shields.io/badge/MongoDB-000?style=flat-for-the-badge&logo=MongoDB&logoColor=47A248"/>
 </p>
 <hr>
-
-![Jeongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongin01&show_icons=true&theme=material-palenight)
+<img src="https://github-readme-stats.vercel.app/api?username=jeongjin01&show_icons=true&theme=material-palenight&count_private=true" height="200"/>
 
 </div>
 <!---
